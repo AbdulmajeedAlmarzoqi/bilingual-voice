@@ -3,6 +3,19 @@
 BiVoice builds as they reach the [public beta](https://testflight.apple.com/join/KZUs8RRm).
 TestFlight updates to the newest one on its own.
 
+## 1.0 (8) — 18 September 2026
+
+**BiVoice stays in VoiceOver after a restart.** After a restart, iOS loads speech engines'
+voices before the iPhone is unlocked, and BiVoice could not read its settings that early, so
+it could vanish from VoiceOver's voice list until the app was opened. BiVoice now reads its
+settings from the moment the iPhone starts, and iOS lists it before you unlock.
+
+**A clear message when iOS needs a restart.** Sometimes iOS stops noticing newly installed
+speech engines until the iPhone restarts, most often after BiVoice is deleted and installed
+again. BiVoice now detects this: if its voices have not appeared within 45 seconds, the Status
+section says Restart Required, VoiceOver announces it, and a Check Again button asks iOS once
+more.
+
 ## 1.0 (7) — 18 September 2026
 
 **Read Punctuation, set in BiVoice.** VoiceOver does not tell other speech engines its

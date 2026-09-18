@@ -13,9 +13,13 @@ That is the only step in Settings. You do not need to add a second language to V
 Detect Languages can stay off.
 
 **My profile does not appear in that list.**
-Open BiVoice and wait about half a minute; iOS loads third-party voices in the background. If
-nothing has appeared after that, restart your iPhone and open BiVoice once more. This can happen
-after an update, because iOS sometimes forgets a speech engine until the app asks again.
+Open BiVoice and wait about half a minute; iOS loads third-party voices in the background.
+
+**BiVoice says Restart Required.**
+iOS has stopped noticing newly installed speech engines, which can happen after BiVoice is
+deleted and installed again, or updated. Only a restart clears it: restart your iPhone, then
+open BiVoice. After the restart, BiVoice appears in VoiceOver's voice list by itself, even
+before you unlock.
 
 **Punctuation is read even though VoiceOver's punctuation is set to None, or not read when it is
 set to All.**
