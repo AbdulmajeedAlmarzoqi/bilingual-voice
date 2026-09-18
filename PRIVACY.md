@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Last updated: 17 September 2026
+Last updated: 18 September 2026
 
 ## The short version
 
-Bilingual Voice collects nothing. No analytics, no advertising, no tracking, no accounts, no
+BiVoice collects nothing. No analytics, no advertising, no tracking, no accounts, no
 servers. The app makes no network connections at all.
 
 ## The text it speaks
@@ -16,13 +16,17 @@ It is never written to disk. Not to a log, not to a cache, not to a database, no
 report. It is never sent anywhere, because the app does not talk to the network. Once a phrase
 has been spoken, nothing about it is kept.
 
+To help with problems, the engine keeps a few technical figures while it runs, such as how many
+parts a phrase was split into and how long it took to prepare. They never contain the text,
+they are held in memory only, and they are gone when the engine stops.
+
 Earlier development builds did write a diagnostic log. If you used one, the app deletes that
 file the first time the current version runs.
 
 ## What is saved
 
-Only your settings: the languages you added, the voice you chose for each, and your rules for
-numbers, punctuation and symbols. They live in a private container that belongs to the app.
+Only your settings: your profiles, the languages you added, the voice and adjustments you chose
+for each, and your speech rules for punctuation, numbers and symbols. They live in a private container that belongs to the app.
 Other apps cannot read it, nothing is uploaded anywhere, and deleting the app deletes it.
 
 ## Purchases

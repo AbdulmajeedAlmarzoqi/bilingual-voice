@@ -1,9 +1,9 @@
 # Terms of Use
 
-Last updated: 17 September 2026
+Last updated: 18 September 2026
 
-These terms are an agreement between you and Abdulmajeed Almarzoqi, the developer of Bilingual
-Voice ("the app"). Installing or using the app means you accept them. If you do not, do not use
+These terms are an agreement between you and Abdulmajeed Almarzoqi, the developer of BiVoice
+("the app"). Installing or using the app means you accept them. If you do not, do not use
 the app.
 
 ## 1. Licence
@@ -40,21 +40,28 @@ platform works; it is not a fault in the app and I cannot change it.
 
 ## 4. Paying for it
 
-The app is free to download and includes a one-week trial of the paid features. After that they
-need a single purchase, which unlocks them permanently for the Apple Account that bought them.
-There is no subscription and nothing recurring.
+The app is free to download, and every feature is included for seven days. After that it is a
+single purchase, made once and kept for life by the Apple Account that bought it. There is no
+subscription and nothing recurring.
 
 The price is shown in the app before you buy, in your own currency, set by Apple. Apple takes
 the payment and Apple owns that transaction. I cannot issue refunds. Refund requests go to
 Apple and Apple decides them under its own rules.
 
-If the trial ends and you have not bought the app, the paid features stop. VoiceOver carries on
+If the trial ends and you have not bought the app, your settings stop applying. VoiceOver carries on
 speaking with the system's default voice. Nothing on your device and nothing in your
 accessibility settings is disabled or damaged by that.
 
 You can restore an earlier purchase at any time from the About screen.
 
-## 5. No warranty
+## 5. Beta versions
+
+Builds offered through TestFlight are for testing. They may contain more mistakes than a
+release, can change or stop working without notice, and expire after the period Apple sets.
+Purchases made in them go through Apple's test environment and are not charged. Apple's
+TestFlight terms apply to them as well as these.
+
+## 6. No warranty
 
 The app is provided "as is" and "as available", with no warranty of any kind, express or
 implied, including merchantability, fitness for a particular purpose, accuracy and
@@ -65,7 +72,7 @@ fixed.
 Some places do not allow implied warranties to be excluded. Where that is the case, they last
 no longer than the minimum the law requires.
 
-## 6. Limit of liability
+## 7. Limit of liability
 
 To the fullest extent the law allows, I am not liable for any indirect, incidental, special,
 consequential or punitive damages, or for lost profits, lost revenue, lost data, lost goodwill
@@ -78,18 +85,18 @@ app is capped at what you actually paid for it, or five US dollars, whichever is
 
 Some places do not allow these limits. Where that is the case, they do not apply to you.
 
-## 7. Your side
+## 8. Your side
 
 You are responsible for how you set the app up and how you use it, for checking that it
 behaves the way you need, and for following the laws that apply to you. Do not use it for
 anything unlawful.
 
-## 8. Changes and availability
+## 9. Changes and availability
 
 I may change the app, or any part of it, or stop offering it, at any time and without notice.
 I am not obliged to provide updates, support, maintenance or fixes.
 
-## 9. Apple
+## 10. Apple
 
 This agreement is between you and me. Apple Inc. is not a party to it.
 
@@ -110,30 +117,30 @@ Apple, iOS, iPhone, iPad, VoiceOver, Siri and App Store are trademarks of Apple 
 independent and is not affiliated with, endorsed by, sponsored by or approved by Apple Inc.
 Other trademarks belong to their owners.
 
-## 10. Privacy
+## 11. Privacy
 
 The app collects no personal data. See the [Privacy Policy](PRIVACY.md).
 
-## 11. Ending it
+## 12. Ending it
 
 The licence runs until it ends. It ends automatically if you break these terms. After that,
 stop using the app and delete it.
 
-## 12. Governing law
+## 13. Governing law
 
 These terms are governed by the laws of the Kingdom of Saudi Arabia, except where mandatory
 consumer protection law where you live says otherwise.
 
-## 13. The whole agreement
+## 14. The whole agreement
 
 These terms, the Privacy Policy and Apple's App Store Terms of Service are the whole agreement
 about the app. If a court finds one part unenforceable, the rest still stands.
 
-## 14. Updates to these terms
+## 15. Updates to these terms
 
 I may update them. The version that applies is the one published here, with its date at the
 top. Continuing to use the app after a change means you accept it.
 
-## 15. Contact
+## 16. Contact
 
 support.dev.a@gmail.com
